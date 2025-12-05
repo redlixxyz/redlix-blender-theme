@@ -2,8 +2,6 @@
 
 A warm, brutalist-inspired dark theme for Blender featuring earthy tones and retro-futuristic aesthetics.
 
-![Theme Preview](preview.png)
-
 ## Overview
 
 Redlix is a carefully crafted interface theme that balances utilitarian design with visual warmth. Drawing inspiration from vintage computing terminals and industrial materials, it offers a comfortable workspace for extended creative sessions.
