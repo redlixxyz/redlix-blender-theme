@@ -29,28 +29,6 @@ The theme uses a cohesive palette of warm, muted tones:
 - **Subtle roundness** (0.2 radius) for comfortable, modern aesthetics
 - **Consistent spacing** with soft drop shadows for depth
 
-## Installation
-
-1. Download the latest release
-2. Open Blender Preferences (`Edit → Preferences`)
-3. Navigate to the `Themes` section
-4. Click `Install` and select the downloaded `redlix_theme.xml` file
-5. Select "Redlix Theme" from the presets dropdown
-
-## Technical Details
-
-- **Minimum Blender Version:** 5.0.0
-- **Type:** Theme
-- **License:** GPL-2.0-or-later
-
-## Philosophy
-
-Redlix embraces honest, functional design. Every color choice and interface decision serves a purpose - from the warm base tones that create a comfortable workspace, to the rust red accents that clearly indicate active elements. The theme channels the spirit of vintage computing while meeting modern workflow requirements.
-
-## Feedback & Contributions
-
-Found an issue or have a suggestion? Please open an issue on the [GitHub repository](https://github.com/redlixxyz/redlix-blender-theme).
-
 ---
 
 **Redlix Design Language** - Functional aesthetics for modern creative tools.
